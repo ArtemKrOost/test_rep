@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+//просто коммент
+
 public class Player_Movement_Controller : MonoBehaviour
 {
     public float speed;
